@@ -1,0 +1,49 @@
+{
+    "images": {
+        "glasses": {
+            "ru": [
+                {
+                    "id": "1",
+                    "title": "Main Title",
+                    "subTitle": "Sub title",
+                    "imgsrc": "img/rus/IMG_0261.jpg",
+                    "alt": "img alt",
+                    "price": "29.99"
+                }
+            ],
+            "en": [],
+            "he": [],
+            "arabic": []
+        },
+        "boxes": {
+            "ru": [
+                {
+                    "id": "1",
+                    "title": "Main Title",
+                    "subTitle": "Sub title",
+                    "imgsrc": "img/rus/IMG_0261.jpg",
+                    "alt": "img alt",
+                    "price": "29.99"
+                }
+            ],
+            "en": [],
+            "he": [],
+            "arabic": []
+        },
+        "sets": {
+            "ru": [
+                {
+                    "id": "1",
+                    "title": "Main Title",
+                    "subTitle": "Sub title",
+                    "imgsrc": "img/rus/IMG_0261.jpg",
+                    "alt": "img alt",
+                    "price": "29.99"
+                }
+            ],
+            "en": [],
+            "he": [],
+            "arabic": []
+        }
+    }
+}

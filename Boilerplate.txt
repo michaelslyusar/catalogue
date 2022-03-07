@@ -1,0 +1,47 @@
+=== Installation Notes ===
+ - Node
+ - React dev tools in chrome
+ - npm init
+ 
+ *** Packages ***
+ - live-server
+
+ - react
+ - react-dom
+ - react-router-dom
+ 
+ - @babel/core 
+ - @babel/cli
+ - @babel/preset-react
+ - @babel/preset-env
+ - babel-loader
+ - [.babelrc] for presets
+ 
+ - css-loader
+ - style-loader 
+ - sass-loader
+ - node-sass
+ - normalize.css - reset browser default settings
+
+ - webpack 
+ - webpack-cli
+ - webpack-dev-server
+ - [WEBPACK config file] 
+    ~Dev tools
+    ~Source maps 
+    ~Loaders [babel, css-loader,sass-loader,style-loader]
+    ~DevServer
+
+- redux
+- react-redux
+- @reduxjs/toolkit
+- redux-devtools
+    
+    
+  
+
+
+
+Redux
+
+Node
